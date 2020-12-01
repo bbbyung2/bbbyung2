@@ -34,6 +34,9 @@
 <span>
   <img src="https://mobx.js.org/img/mobx.png"
     alt="mobx" height="40" /></span>
+<img src="https://pbs.twimg.com/profile_images/1100804485616566273/sOct-Txm.png"
+    alt="storybook" height="40" /></span>
+
 
 
 <h3>Also Used</h3>
