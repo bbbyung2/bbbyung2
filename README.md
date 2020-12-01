@@ -26,16 +26,17 @@
 <h3>Now Digging</h3>
 <span><img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
     alt="typescript" height="40" /></span>
+<span><img src="https://pbs.twimg.com/profile_images/1100804485616566273/sOct-Txm.png"
+    alt="storybook" height="40" /></span>
+<span><img src="https://mobx.js.org/img/mobx.png"
+    alt="mobx" height="40" /></span>
 <span><img src="https://devicons.github.io/devicon/devicon.git/icons/sequelize/sequelize-original.svg"
     alt="sequelize" height="40" /></span>
 <span>
   <img src="https://www.thinktanker.io/wp-content/uploads/2019/12/Koa-nodejs-logo-300x300.png"
     alt="koa" height="40" /></span>
-<span>
-  <img src="https://mobx.js.org/img/mobx.png"
-    alt="mobx" height="40" /></span>
-<span><img src="https://pbs.twimg.com/profile_images/1100804485616566273/sOct-Txm.png"
-    alt="storybook" height="40" /></span>
+
+
 
 
 
