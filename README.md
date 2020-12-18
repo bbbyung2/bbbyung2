@@ -10,8 +10,6 @@
 <h3>Usually</h3>
 <span><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
     alt="javascript" height="40" /></span>
-<span><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python"
-    height="40" /></span>
 <span><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react"
     height="40" /></span>
 <span><img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"
@@ -41,6 +39,8 @@
 
 
 <h3>Also Used</h3>
+<span><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python"
+    height="40" /></span>
 <span><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="html5"
     height="40" /></span>
 <span><img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="css3"
