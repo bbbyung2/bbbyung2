@@ -6,7 +6,7 @@
 
 <br />
 
-
+<!--
 <h3>Usually</h3>
 <span><img src="https://devicons.github.io/devicon/devicon.git/icons/react/javascript-original.svg" alt="javascript"
     height="40" /></span>
@@ -56,4 +56,4 @@
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="selenium"
     height="40" /></span>
 
-   
+-->
